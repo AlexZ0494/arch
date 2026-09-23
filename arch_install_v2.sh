@@ -65,7 +65,8 @@ pacman -Syu --noconfirm --needed \
     ttf-jetbrains-mono-nerd \
     feh \
     jq \
-    network-manager-applet
+    network-manager-applet \
+    alacritty 
 
 # ─── 2. Директории конфигов ───
 echo ">>> [2/8] Создание директорий..."
